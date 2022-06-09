@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717239747603",
+    "project_id": "gezgor-910f9",
+    "storage_bucket": "gezgor-910f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717239747603:android:0736767e3a9e0305c62be6",
+        "android_client_info": {
+          "package_name": "com.example.gezgor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717239747603-vip031p3se11u1o156fv67bmt67j0mht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9egLq3BBt0ddYlHJh_zIwTAri9UIJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717239747603-vip031p3se11u1o156fv67bmt67j0mht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
